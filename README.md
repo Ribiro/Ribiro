@@ -2,8 +2,12 @@
 #### I am a full stack web developer.
 I am a creative full-stack web developer with experience building high-impact web solutions both backend and frontend. I am skilled in designing and developing scalable web-based applications, and REST APIs, and incorporating a range of technologies. I stay updated about the best and most relevant technologies and tools to use.
 
-## Skills and Experience
-* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+## Languages and Tools
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 Skills: FLASK / VUE JS / REACT NATIVE / JS / HTML / CSS
 
