@@ -2,9 +2,10 @@
 #### I am a full stack web developer.
 I am a creative full-stack web developer with experience building high-impact web solutions both backend and frontend. I am skilled in designing and developing scalable web-based applications, and REST APIs, and incorporating a range of technologies. I stay updated about the best and most relevant technologies and tools to use.
 
-Skills: FLASK / VUE JS / REACT NATIVE / JS / HTML / CSS
+Skills: DJANGO/ FLASK / VUE JS / REACT NATIVE / JS / HTML / CSS
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="20" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Python" height="20" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask" height="20" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="20" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="20" style="vertical-align:top; margin:4px">
